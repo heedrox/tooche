@@ -4,6 +4,9 @@ https://medium.com/@itortv/voy-a-compartir-todo-el-trabajo-de-mi-futuro-pet-proj
 
 Current status: a prototype
 
+# Try it
+https://bit.ly/toocheapp
+
 # How to use it
 If you want to prototype the game, you need 3 players:
 
